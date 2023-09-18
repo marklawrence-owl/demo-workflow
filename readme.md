@@ -7,3 +7,4 @@ This is a demo project to show how to use the workflow engine.
 3. Testing another feature branch merge feature/feature-b.
 4. Testing another feature branch merge feature/feature-c.
 5. Testing another feature branch merge feature/feature-d.
+6. Testing another feature branch merge feature/feature-e.
